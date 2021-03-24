@@ -1,9 +1,4 @@
-//
-//  Target_ModuleName.h
-//  MediatorTest
-//
-//  Created by smb-lsp on 2021/3/24.
-//
+//___FILEHEADER___
 
 #import <Foundation/Foundation.h>
 

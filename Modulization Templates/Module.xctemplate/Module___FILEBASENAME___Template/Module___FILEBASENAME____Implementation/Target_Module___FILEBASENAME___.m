@@ -1,9 +1,4 @@
-//
-//  Target_ModuleName.m
-//  MediatorTest
-//
-//  Created by smb-lsp on 2021/3/24.
-//
+//___FILEHEADER___
 
 #import "Target_Module___VARIABLE_productName:identifier___.h"
 
